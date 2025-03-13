@@ -1,0 +1,14 @@
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\bin\Debug\net8.0\Ejercicio 18.exe
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\bin\Debug\net8.0\Ejercicio 18.deps.json
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\bin\Debug\net8.0\Ejercicio 18.runtimeconfig.json
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\bin\Debug\net8.0\Ejercicio 18.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\bin\Debug\net8.0\Ejercicio 18.pdb
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.AssemblyInfoInputs.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.AssemblyInfo.cs
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.csproj.CoreCompileInputs.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\refint\Ejercicio 18.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.pdb
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\Ejercicio 18.genruntimeconfig.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 18\Ejercicio 18\obj\Debug\net8.0\ref\Ejercicio 18.dll
