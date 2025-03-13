@@ -1,0 +1,14 @@
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\bin\Debug\net8.0\Ejercicio 20.exe
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\bin\Debug\net8.0\Ejercicio 20.deps.json
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\bin\Debug\net8.0\Ejercicio 20.runtimeconfig.json
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\bin\Debug\net8.0\Ejercicio 20.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\bin\Debug\net8.0\Ejercicio 20.pdb
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.AssemblyInfoInputs.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.AssemblyInfo.cs
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\refint\Ejercicio 20.dll
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.pdb
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\Ejercicio 20.genruntimeconfig.cache
+C:\Users\DP\Documents\Unad\Aplicaciones\20 Ejercicios\Ejercicio 20\Ejercicio 20\obj\Debug\net8.0\ref\Ejercicio 20.dll
